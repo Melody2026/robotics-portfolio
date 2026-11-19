@@ -2,7 +2,6 @@
 
 A technical portfolio showcasing my contributions to UBC's Pacific Spirit robotics design team, focusing on computer vision, autonomous navigation, mapping, and robotic systems integration.
 
-**[View Live Portfolio](https://melody2026.github.io/robotics-portfolio/)**
 
 ![Pacific Spirit Robots](assets/5015.jpeg)
 
